@@ -1,0 +1,4 @@
+d3.greenThumb.config.greenThumb=Green Thumb
+
+d3.greenThumb.config.checkGrowth=检测作物生长
+d3.greenThumb.config.checkGrowth.tooltip=检测是否有作物成熟, 并仅收割它们
