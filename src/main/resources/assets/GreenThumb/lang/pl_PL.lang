@@ -1,4 +1,4 @@
 d3.greenThumb.config.greenThumb=Green Thumb
 
 d3.greenThumb.config.checkGrowth=Sprawdź wzrost
-d3.greenThumb.config.checkGrowth.tooltip=Sprawdź czy roślina jest całkiem urośnięta, i tylko wtedy zberaj.
+d3.greenThumb.config.checkGrowth.tooltip=Zanim zbierzesz, upewnij się czy roślina w pełni urosła.
