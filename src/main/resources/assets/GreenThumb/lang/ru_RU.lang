@@ -1,0 +1,4 @@
+d3.greenThumb.config.greenThumb=Green Thumb
+
+d3.greenThumb.config.checkGrowth=Проверка роста
+d3.greenThumb.config.checkGrowth.tooltip=Проверка того выросло ли растение на 100% и последующий его сбор.
